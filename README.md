@@ -25,7 +25,7 @@ Feel free to open issues, submit pull requests, or share feedback through discus
 
 ## Credits
 
-- **Original CCS Creator:** [ItziSpider](https://github.com/ItziSpider)  
+- **Original CCS Creator:** [ItziSpider](https://github.com/ItziSpyder)  
 - **Head Developers:** [@wxundup](https://github.com/wxundup) and [@sainttrum](https://github.com/sainttrum)  
 
 Special thanks to the broader community for their feedback and support throughout development.
